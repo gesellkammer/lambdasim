@@ -1,0 +1,3 @@
+wheel==0.22.0
+-e https://github.com/gesellkammer/shapelib#egg=shapelib
+-e git://github.com/gesellkammer/bpf4#egg=bpf4
