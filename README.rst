@@ -1,9 +1,10 @@
+.. image:: pics/angled-muffler.png
+
 =========
 lambdasim
 =========
 
-.. image:: images/ball1.gif
-
+.. image:: https://raw.githubusercontent.com/gesellkammer/lambdasim/master/pics/angled-muffler.png
 
 Python utilities to interact with Lambda (FDTD acoustic simulations)
 
