@@ -1,3 +1,6 @@
 wheel==0.22.0
+numpy
+matplotlib
 -e https://github.com/gesellkammer/shapelib#egg=shapelib
 -e git://github.com/gesellkammer/bpf4#egg=bpf4
+-e https://github.com/gesellkammer/sndfileio#egg=sndfileio

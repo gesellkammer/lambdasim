@@ -15,11 +15,13 @@ if sys.argv[-1] == 'publish':
     sys.exit()
 
 readme = open('README.rst').read()
+version = open("version.txt").read().strip()
+
 # history = open('HISTORY.rst').read().replace('.. :changelog:', '')
 
 setup(
     name='lambdasim',
-    version='0.1.0',
+    version=version,
     description='Python utilities to interact with Lambda (FDTD acoustic simulations)',
     long_description=readme,
     author='Eduardo Moguillansky',

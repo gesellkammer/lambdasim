@@ -1,0 +1,2 @@
+class SimValidationError(BaseException):
+    pass
