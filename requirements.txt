@@ -1,4 +1,4 @@
-wheel==0.38.1
+wheel==0.46.2
 numpy
 matplotlib
 -e https://github.com/gesellkammer/shapelib#egg=shapelib
